@@ -5,3 +5,4 @@ Hemoglobin-beta Human	HBB_HUMAN  P68871			 120
 PFKM		Human	PFKM_HUMAN P08237			 863
 Pfkm		Mouse	PFKM_MOUSE P47857			 780
 DNA		I know that it is not a protein but whatever ... 780
+PFKM		Rat	PFKM_RAT   P47858			 780
