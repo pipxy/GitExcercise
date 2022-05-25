@@ -1,1 +1,2 @@
 I'm trying to mess about with git in order to understand how it works
+Maybe I got the gist of it
